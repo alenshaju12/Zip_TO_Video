@@ -1,47 +1,50 @@
-🎉 ZIP <-> Video Converter 🎉
-🌟 Overview
-Welcome to the ZIP <-> Video Converter! This exciting Python application empowers you to transform ZIP files into video files and back again with absolute ease! Experience the magic of encoding binary data from your ZIP archives into stunning AVI video formats, where each frame represents a piece of your compressed treasures. And when you want to reclaim your data, our tool will decode the video back into the original ZIP file effortlessly.
+# 🎉 ZIP <-> Video Converter 🎉
 
-✨ Key Features
-🚀 Convert ZIP to Video: Turn your ZIP files into AVI videos in just a few clicks!
-🔄 Convert Video to ZIP: Easily reconstruct your original ZIP files from video format.
-🌈 User-Friendly Interface: Enjoy a smooth and intuitive graphical interface powered by Tkinter.
-🔒 Binary Data Support: Our tool handles data encoding and decoding in binary format to ensure accuracy.
-🔧 Requirements
+## 🌟 Overview
+
+Welcome to the **ZIP <-> Video Converter**! This exciting Python application empowers you to transform ZIP files into video files and back again with absolute ease! Experience the magic of encoding binary data from your ZIP archives into stunning AVI video formats, where each frame represents a piece of your compressed treasures. And when you want to reclaim your data, our tool will decode the video back into the original ZIP file effortlessly.
+
+## ✨ Key Features
+
+- **🚀 Convert ZIP to Video**: Turn your ZIP files into AVI videos in just a few clicks!
+- **🔄 Convert Video to ZIP**: Easily reconstruct your original ZIP files from video format.
+- **🌈 User-Friendly Interface**: Enjoy a smooth and intuitive graphical interface powered by Tkinter.
+- **🔒 Binary Data Support**: Our tool handles data encoding and decoding in binary format to ensure accuracy.
+
+## 🔧 Requirements
+
 To embark on this conversion adventure, make sure you have the following essentials ready:
 
-Python 3.x: The backbone of our application.
-OpenCV: Required for all your video processing needs (opencv-python package).
-NumPy: Essential for those numerical operations.
-Tkinter: This gem comes pre-installed with Python for building beautiful GUIs!
-🚀 Installation Instructions
-Get Started in Just a Few Steps!
-Clone the Repository: Open your terminal and run:
+- **Python 3.x**: The backbone of our application.
+- **OpenCV**: Required for all your video processing needs (`opencv-python` package).
+- **NumPy**: Essential for those numerical operations.
+- **Tkinter**: This gem comes pre-installed with Python for building beautiful GUIs!
 
-bash
-Copy code
-git clone https://github.com/alenshaju12/Zip_TO_Video.git
+## 🚀 Installation Instructions
+
+### Get Started in Just a Few Steps!
+
+1. **Clone the Repository**: Open your terminal and run:
+
+   ```bash
+   git clone https://github.com/alenshaju12/Zip_TO_Video.git
 Navigate to the Project Directory:
 
 bash
 Copy code
 cd Zip_TO_Video
-Install Required Packages:
-
-Use pip to install the necessary packages:
+Install Required Packages: Use pip to install the necessary packages:
 
 bash
 Copy code
 pip install opencv-python numpy
 🎬 How to Use the Application
-1. Run the Application:
-Kick off your conversion journey by executing this command in your terminal:
+Run the Application: Kick off your conversion journey by executing this command in your terminal:
 
 bash
 Copy code
 python main.py
-2. Choose Your Conversion Mode:
-Once the application is up and running, you’ll be greeted with two shiny buttons:
+Choose Your Conversion Mode: Once the application is up and running, you’ll be greeted with two shiny buttons:
 
 ✨ Convert ZIP to Video: Click here to transform a ZIP file into a vibrant video.
 🎥 Convert Video to ZIP: Select this option to bring your video back to a ZIP file.
