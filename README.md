@@ -28,38 +28,52 @@ To embark on this conversion adventure, make sure you have the following essenti
 
    ```bash
    git clone https://github.com/alenshaju12/Zip_TO_Video.git
-Navigate to the Project Directory: Change your directory to the project folder:
+   ```
 
-bash
-Copy code
-cd Zip_TO_Video
-Install Required Packages: Use pip to install the necessary packages:
+2. **Navigate to the Project Directory**: Change your directory to the project folder:
 
-bash
-Copy code
-pip install opencv-python numpy
-🎬 How to Use the Application
-Run the Application
+   ```bash
+   cd Zip_TO_Video
+   ```
+
+3. **Install Required Packages**: Use pip to install the necessary packages:
+
+   ```bash
+   pip install opencv-python numpy
+   ```
+
+## 🎬 How to Use the Application
+
+### Run the Application
+
 Kick off your conversion journey by executing this command in your terminal:
 
-bash
-Copy code
+```bash
 python main.py
-Choose Your Conversion Mode
+```
+
+### Choose Your Conversion Mode
+
 Once the application is up and running, you’ll be greeted with two shiny buttons:
 
-✨ Convert ZIP to Video: Click here to transform a ZIP file into a vibrant video.
-🎥 Convert Video to ZIP: Select this option to bring your video back to a ZIP file.
-🌀 Converting ZIP to Video
-Hit the Convert ZIP to Video button.
-A delightful file dialog will pop up, inviting you to choose the ZIP file you want to convert.
-Select where you want to save your video masterpiece (it’ll be in AVI format).
-Voilà! A success message will celebrate your conversion!
-🔄 Converting Video to ZIP
-Click the Convert Video to ZIP button.
-A friendly file dialog will ask you to select the video file for conversion.
-Choose the location and filename for your newly reconstructed ZIP file.
-A success message will confirm that you’ve done it!
-⚠️ Important Notes
-💡 File Size Considerations: Remember, encoding in binary may create larger video files than the original ZIPs, but it’s all part of the magic!
-🎞️ File Format: Ensure your selected video file is in AVI format to enjoy smooth conversions.
+- **✨ Convert ZIP to Video**: Click here to transform a ZIP file into a vibrant video.
+- **🎥 Convert Video to ZIP**: Select this option to bring your video back to a ZIP file.
+
+### 🌀 Converting ZIP to Video
+
+1. Hit the **Convert ZIP to Video** button.
+2. A delightful file dialog will pop up, inviting you to choose the ZIP file you want to convert.
+3. Select where you want to save your video masterpiece (it’ll be in AVI format).
+4. Voilà! A success message will celebrate your conversion!
+
+### 🔄 Converting Video to ZIP
+
+1. Click the **Convert Video to ZIP** button.
+2. A friendly file dialog will ask you to select the video file for conversion.
+3. Choose the location and filename for your newly reconstructed ZIP file.
+4. A success message will confirm that you’ve done it!
+
+## ⚠️ Important Notes
+
+- **💡 File Size Considerations**: Remember, encoding in binary may create larger video files than the original ZIPs, but it’s all part of the magic!
+- **🎞️ File Format**: Ensure your selected video file is in AVI format to enjoy smooth conversions.
