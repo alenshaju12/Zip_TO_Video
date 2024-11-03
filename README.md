@@ -22,29 +22,34 @@ To embark on this conversion adventure, make sure you have the following essenti
 
 ## 🚀 Installation Instructions
 
-### Get Started in Just a Few Steps!
+## Get Started in Just a Few Steps!
 
-1. **Clone the Repository**: Open your terminal and run:
+### Clone the Repository
+Open your terminal and run:
 
-   ```bash
-   git clone https://github.com/alenshaju12/Zip_TO_Video.git
-Navigate to the Project Directory:
+```bash
+git clone https://github.com/alenshaju12/Zip_TO_Video.git
+Navigate to the Project Directory
+Change your directory to the project folder:
 
 bash
 Copy code
 cd Zip_TO_Video
-Install Required Packages: Use pip to install the necessary packages:
+Install Required Packages
+Use pip to install the necessary packages:
 
 bash
 Copy code
 pip install opencv-python numpy
 🎬 How to Use the Application
-Run the Application: Kick off your conversion journey by executing this command in your terminal:
+Run the Application
+Kick off your conversion journey by executing this command in your terminal:
 
 bash
 Copy code
 python main.py
-Choose Your Conversion Mode: Once the application is up and running, you’ll be greeted with two shiny buttons:
+Choose Your Conversion Mode
+Once the application is up and running, you’ll be greeted with two shiny buttons:
 
 ✨ Convert ZIP to Video: Click here to transform a ZIP file into a vibrant video.
 🎥 Convert Video to ZIP: Select this option to bring your video back to a ZIP file.
