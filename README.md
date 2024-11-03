@@ -29,6 +29,7 @@ Open your terminal and run:
 
 ```bash
 git clone https://github.com/alenshaju12/Zip_TO_Video.git
+
 Navigate to the Project Directory
 Change your directory to the project folder:
 
